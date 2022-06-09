@@ -1,7 +1,7 @@
 
-## Client Ecommerce
+## Laravel 8 QuickStart 
 
-Client single vendor ecommerce management application
+Laravel 8 Fresh With Admin Panel With Admin Authentication
 
 ## Installation Guideline
 
@@ -13,3 +13,5 @@ Client single vendor ecommerce management application
 
 ## License
 
+AHMED SABBIR
+theahmedsabbir@gmail.com
